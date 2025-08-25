@@ -5,18 +5,6 @@ It uses **Convolutional Neural Networks (CNNs)** with **Keras/TensorFlow**, and 
 
 ---
 
-## 📂 Project Structure
-# facemask_detection
-
-face-mask-detection/
-│── code/
-│ │── data_utils.py # Utility functions: load JSON annotations, gamma correction
-│ │── model.py # CNN model definition
-│ │── train.py # Training & inference script
-│── README.md # Project description
-
-
-
 ---
 
 ## ⚙️ Requirements
