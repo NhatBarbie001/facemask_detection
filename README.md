@@ -5,8 +5,6 @@ It uses **Convolutional Neural Networks (CNNs)** with **Keras/TensorFlow**, and 
 
 ---
 
----
-
 ## ⚙️ Requirements
 - Python 3.8+
 - TensorFlow / Keras
